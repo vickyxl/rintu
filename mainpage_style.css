@@ -1,0 +1,104 @@
+#logoimg{
+    height: 80px;
+    width: 225px;
+    margin-left: -12px;
+}
+.phnum{
+    display: inline;
+    font-size: small;
+    padding-top: 10px;
+    padding-left: 58px;
+}
+.home{
+    background-color: orange;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.navlink{
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 5px;
+}
+.list{
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
+.list a:hover{
+    background-color: rgb(14, 160, 245);
+    color: white;
+    border-radius: 10px;
+}
+#mainimg{
+    height: 550px;
+    width: 1263px;
+    padding: 10px;
+}
+.marquee{
+    font-size: medium;
+    font-weight: bold;
+    color: darkgoldenrod;
+}
+.socialicon {
+    font-size: 18px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    border:  2px solid blue;
+    padding: 4px;
+}
+.socialicon:hover{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+.list-group-item:hover{
+    background-color: blue;
+    color: white;
+}
+.thumbnailimg{
+    height: 125px;
+    width: 200px;
+}
+.frame{
+    padding: 10px;
+    width: 225px;
+}
+.pad{
+    padding: 11.5px;
+}
+.toplabel{
+    padding: 8px;
+    color: white;
+    margin-left: 90px;
+}
+.linkcls{
+    text-decoration: none;
+}
+.socialiconfooter {
+    font-size: 18px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    border:  solid white;
+    padding: 4px;
+}
+.socialiconfooter:hover{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+.footeritem{
+    border-right: 1px solid rgb(104, 103, 103);
+    padding: 10px;
+    display: inline;
+    list-style: none;
+}
+.endfooter{
+    background-color: rgb(0, 0, 0);
+    padding: 20px
+}
